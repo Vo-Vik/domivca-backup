@@ -1,0 +1,5 @@
+OAUTH_ACCESS_TOKEN=your token here
+DROP_BOX_FOLDER=your drop box folder
+VHOSTS_FOLDER=your vhosts folder
+SITE_FOLDER=your site folder
+DB_NAME=your db name
